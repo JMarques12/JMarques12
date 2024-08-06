@@ -2,6 +2,8 @@
 
 ###
 
+<p>São Paulo, Brasil 🇧🇷</p>
+
 <br clear="both">
 
 <p align="left">✨ Creating bugs since 2023 ...<br>📚 I'm currently learning ...</p>
